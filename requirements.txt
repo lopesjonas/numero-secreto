@@ -1,0 +1,3 @@
+# Dependências do projeto
+# Este projeto não tem dependências externas no momento
+# Formatar: pip freeze > requirements.txt
